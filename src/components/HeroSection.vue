@@ -172,7 +172,7 @@ import { Layers, Mail, Download, ArrowRight, ChevronDown } from 'lucide-vue-next
 
 const stats = [
   { value: '4+', label: 'Ans d\'expérience' },
-  { value: '15+', label: 'Projets livrés' },
+  { value: '3+', label: 'Projets livrés' },
   { value: '5+', label: 'Clients' },
   { value: '2025', label: 'Master Supinfo' },
 ]
