@@ -142,21 +142,22 @@
 import { ExternalLink, Github } from 'lucide-vue-next'
 
 const featured = {
-  title: 'Job Tracker',
-  desc: 'Application de suivi de candidatures avec un dashboard analytique complet. Conçue pour aider les candidats à mieux s\'organiser et suivre leurs processus de recrutement.',
-  tags: ['Web App', 'Dashboard', 'UI/UX'],
-  demo: 'https://job-tracker-ten-sooty.vercel.app/dashboard',
-  github: '#',
+  title: 'Association 48 pour 100',
+  desc: 'Développement complet d\'une plateforme moderne pour l\'association 48 pour 100. Interface intuitive, performance optimale et maintenance évolutive.',
+  tags: ['Vue 3', 'Node.js', 'Vercel', 'Portfolio'],
+  demo: 'https://association48pour100.vercel.app/',
+  github: 'https://github.com/timolef/48_front_new',
 }
 
 const otherProjects = [
   {
-    title: 'Association 48 pour 100',
-    desc: 'Site vitrine développé pour l\'Association 48 pour 100, mettant en avant leurs actions, actualités et permettant le contact.',
-    tags: ['Web', 'Vitrine', 'Association'],
-    demo: 'https://association48pour100.vercel.app/', github: '#',
-    emoji: '🤝',
-    bgClass: 'bg-gradient-to-br from-emerald-950/80 to-teal-950/60',
+    title: 'Job Tracker',
+    desc: 'Application de suivi de candidatures (Job Tracker) pour organiser et optimiser sa recherche d\'emploi avec un dashboard analytique.',
+    tags: ['Next.js', 'Dashboard', 'Vercel'],
+    demo: 'https://job-tracker-ten-sooty.vercel.app/dashboard',
+    github: 'https://github.com/timolef/JobTracker',
+    emoji: '💼',
+    bgClass: 'bg-gradient-to-br from-blue-950/80 to-indigo-950/60',
   },
   {
     title: 'Predict Tycoon',
